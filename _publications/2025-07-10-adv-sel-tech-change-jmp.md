@@ -1,6 +1,5 @@
 ---
 title: "Adverse Selection and Technological Change: Evidence from Medicare Part D"
-coauthor: ""
 collection: publications
 category: jmp
 #permalink: /publication/2024-02-17-paper-title-number-4
