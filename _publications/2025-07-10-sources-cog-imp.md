@@ -1,5 +1,5 @@
 ---
-title: "Sources of Cognitive Improvements in U.S. Elderly Adults"
+title: "Sources of Cognitive Improvements in the US Elderly Population"
 coauthor: "David Cutler"
 collection: publications
 category: wp
