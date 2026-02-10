@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Health Policy Ph.D. Program (Economics Track) at Harvard University. In 2024-2025, I was a Pre-Doctoral Fellow in Aging and Health Research at the National Bureau of Economic Research.
+I am a Ph.D. candidate in the Health Policy Ph.D. Program (Economics Track) at Harvard University. 
 
 I study a variety of topics in health economics and aging, including the economics of insurance markets, environmental health, and the causes and consequences of racial health disparities. Much of my recent work has examined these topics in the context of Alzheimer's disease and related dementias.
 
-**I am on the 2025-2026 job market.**
+In August 2027, I will join the John Munro Godfrey, Sr. Department of Economics in the Terry College of Business at the University of Georgia as an Assistant Professor, following a postdoctoral fellowship at the Tobin Center for Economic Policy at Yale University (2026-27).
 
 Email: gpeterson@g.harvard.edu
 
