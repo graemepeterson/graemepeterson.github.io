@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Health Policy Ph.D. Program (Economics Track) at Harvard University. 
+I am a postdoctoral fellow at the Tobin Center for Economic Policy at Yale University. In August 2027, I will join the John Munro Godfrey, Sr. Department of Economics in the Terry College of Business at the University of Georgia as an Assistant Professor.
 
 I study a variety of topics in health economics and aging, including the economics of insurance markets, environmental health, and the causes and consequences of racial health disparities. Much of my recent work has examined these topics in the context of Alzheimer's disease and related dementias.
 
-In August 2027, I will join the John Munro Godfrey, Sr. Department of Economics in the Terry College of Business at the University of Georgia as an Assistant Professor, following a postdoctoral fellowship at the Tobin Center for Economic Policy at Yale University (2026-27).
+I received a BA from Duke University in 2017 and a Ph.D. in health policy from Harvard University in 2026.
 
-Email: gpeterson@g.harvard.edu
+Email: graeme.peterson@yale.edu
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
