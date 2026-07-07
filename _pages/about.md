@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at the Tobin Center for Economic Policy at Yale University. In August 2027, I will join the John Munro Godfrey, Sr. Department of Economics in the Terry College of Business at the University of Georgia as an Assistant Professor.
+I am a postdoctoral associate at the Tobin Center for Economic Policy at Yale University. In August 2027, I will join the John Munro Godfrey, Sr. Department of Economics in the Terry College of Business at the University of Georgia as an Assistant Professor.
 
 I study a variety of topics in health economics and aging, including the economics of insurance markets, environmental health, and the causes and consequences of racial health disparities. Much of my recent work has examined these topics in the context of Alzheimer's disease and related dementias.
 
